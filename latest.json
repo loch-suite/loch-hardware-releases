@@ -4,8 +4,8 @@
   "pub_date": "2026-06-03T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTdOa0YyVFZyM3hnYTlOUzFBQVNENHFlZzQwWHNoVHd2T0gxSDhzQXVxOU5BekZvakord2Y1ckF2dG1JN2FTTjZFeFlQL3VjdjJLYkp3UTRSK3Evb096c3pxS2N4SkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNTAyMzMxCWZpbGU6TG9vbSBIYXJkd2FyZV8wLjEuMF94NjQtc2V0dXAuZXhlCi96N1NiVmUxVmNSdU5PanRXVmVrbUREZWtCUGhPbmRvajNDa0VqU3Y5UXA0a21YOEJBSDFJU2JGQmlDWWlXV1lHT0p1VzExTEdOUVFUcnBQZ0dIeUJnPT0K",
-      "url": "https://github.com/loom-suite/loom-hardware-releases/releases/download/v0.1.0/Loom%20Hardware_0.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTdOa0YyVFZyM3c0US85K3BmMHY3am96ekZWaDVSY3J6cU5LSGFKU2NkUERmQ0VjajZPTTZXVldTSnBCUHRua1RnMXRkZ281cnRpZStERnR3VzYvTTR5U2Nqb05RMVF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNzEwMDg0CWZpbGU6TG9jaCBIYXJkd2FyZV8wLjIuMF94NjQtc2V0dXAuZXhlCkF3cUY0YjVMQllOdDc0YlNLMzFqRzRBREtmZE1CYXhmcnE3QzN0WGFzZWJCOXRpbmpiQy81RkcxQWlZV2haRzlTVkVzM3BGQUFENU9UdzA3WkZpZ0FBPT0K",
+      "url": "https://github.com/loch-suite/loch-hardware-releases/releases/download/v0.2.0/Loch.Hardware_0.2.0_x64-setup.exe"
     }
   }
 }
