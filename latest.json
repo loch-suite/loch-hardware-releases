@@ -1,6 +1,6 @@
 {
-  "version": "0.1.0",
-  "notes": "Initial release.",
+  "version": "0.2.1",
+  "notes": "UI fixes: startup groups and theme picker now scroll instead of expanding",
   "pub_date": "2026-06-03T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
