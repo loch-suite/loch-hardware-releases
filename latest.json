@@ -4,8 +4,8 @@
   "pub_date": "2026-06-03T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTdOa0YyVFZyM3c0US85K3BmMHY3am96ekZWaDVSY3J6cU5LSGFKU2NkUERmQ0VjajZPTTZXVldTSnBCUHRua1RnMXRkZ281cnRpZStERnR3VzYvTTR5U2Nqb05RMVF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNzEwMDg0CWZpbGU6TG9jaCBIYXJkd2FyZV8wLjIuMF94NjQtc2V0dXAuZXhlCkF3cUY0YjVMQllOdDc0YlNLMzFqRzRBREtmZE1CYXhmcnE3QzN0WGFzZWJCOXRpbmpiQy81RkcxQWlZV2haRzlTVkVzM3BGQUFENU9UdzA3WkZpZ0FBPT0K",
-      "url": "https://github.com/loch-suite/loch-hardware-releases/releases/download/v0.2.0/Loch.Hardware_0.2.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTdOa0YyVFZyMzZ4dC9ZRkxsNldMdXRjbnhZSExkckx5RE4xWTgwWVpqZGNtYlk2amdBUjFRTmxIZ3RNNkZpU3ZKQi95akhEVis4a0RlS0tSaDNvZTY5ZHlRRGJNZ3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNzEwNjc4CWZpbGU6TG9jaCBIYXJkd2FyZV8wLjIuMV94NjQtc2V0dXAuZXhlCnZQdFhUbFBPQWp0bTdmWHR6K051NlFoL3h2WGtheDBaeE44YWt4YWJHNHlTZktoQUYxeG9CZTBOTWFLdWRWZ1g2MmM2d3hkSW5hL3JrajdZUG1ub0FBPT0K",
+      "url": "https://github.com/loch-suite/loch-hardware-releases/releases/download/v0.2.1/Loch.Hardware_0.2.1_x64-setup.exe"
     }
   }
 }
