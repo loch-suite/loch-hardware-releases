@@ -1,11 +1,11 @@
 {
-  "version": "0.2.1",
-  "notes": "UI fixes: startup groups and theme picker now scroll instead of expanding",
-  "pub_date": "2026-06-03T00:00:00Z",
+  "version": "0.2.2",
+  "notes": "Add functionality to updater",
+  "pub_date": "2026-06-05T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTdOa0YyVFZyMzZ4dC9ZRkxsNldMdXRjbnhZSExkckx5RE4xWTgwWVpqZGNtYlk2amdBUjFRTmxIZ3RNNkZpU3ZKQi95akhEVis4a0RlS0tSaDNvZTY5ZHlRRGJNZ3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNzEwNjc4CWZpbGU6TG9jaCBIYXJkd2FyZV8wLjIuMV94NjQtc2V0dXAuZXhlCnZQdFhUbFBPQWp0bTdmWHR6K051NlFoL3h2WGtheDBaeE44YWt4YWJHNHlTZktoQUYxeG9CZTBOTWFLdWRWZ1g2MmM2d3hkSW5hL3JrajdZUG1ub0FBPT0K",
-      "url": "https://github.com/loch-suite/loch-hardware-releases/releases/download/v0.2.1/Loch.Hardware_0.2.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTdOa0YyVFZyMzI5T0FPcDBVcE5xN2VVZUVzcW5yOXBBRHVWRFc1S0pJcm5DQzcxa0VEV1JZUmovZm54cUVldXJ4dlpLWnRSUGdZUmtOOGwyVXA3L01JL3phUFhsNWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNzExMjk0CWZpbGU6TG9jaCBIYXJkd2FyZV8wLjIuMl94NjQtc2V0dXAuZXhlCm1MTWRNQWdiOElhQkVCbEZ0OHJkUkg1ZEU3dmxHVFlxWXNwUXJPOGhNcUdaUTdydFRXZ0pIczVZRDFZcm10ZUw5dURBdzB6SHBEQjVFUG5sYTZqZ0RnPT0K",
+      "url": "https://github.com/loch-suite/loch-hardware-releases/releases/download/v0.2.2/Loch.Hardware_0.2.2_x64-setup.exe"
     }
   }
 }
