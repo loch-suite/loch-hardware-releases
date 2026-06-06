@@ -1,11 +1,11 @@
 {
-  "version": "0.2.2",
-  "notes": "Add functionality to updater",
+  "version": "0.2.3",
+  "notes": "UI fixes: match updater UI with macro",
   "pub_date": "2026-06-05T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTdOa0YyVFZyMzI5T0FPcDBVcE5xN2VVZUVzcW5yOXBBRHVWRFc1S0pJcm5DQzcxa0VEV1JZUmovZm54cUVldXJ4dlpLWnRSUGdZUmtOOGwyVXA3L01JL3phUFhsNWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNzExMjk0CWZpbGU6TG9jaCBIYXJkd2FyZV8wLjIuMl94NjQtc2V0dXAuZXhlCm1MTWRNQWdiOElhQkVCbEZ0OHJkUkg1ZEU3dmxHVFlxWXNwUXJPOGhNcUdaUTdydFRXZ0pIczVZRDFZcm10ZUw5dURBdzB6SHBEQjVFUG5sYTZqZ0RnPT0K",
-      "url": "https://github.com/loch-suite/loch-hardware-releases/releases/download/v0.2.2/Loch.Hardware_0.2.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTdOa0YyVFZyMzhQRytEZVg2TytvSHZ4eVZRK0FYdEpSQ3RVRDRIVnJDRHRpME03dWY1ZUhGZWFsTnJyZldva1VPeTJsYlI1aFkxY0l3UFh2MGNNaDh4d0tzZUYvbEFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNzEyMDA4CWZpbGU6TG9jaCBIYXJkd2FyZV8wLjIuM194NjQtc2V0dXAuZXhlClJyemdKZWFYYU1tWkJQN242MG14cHpFSGs2RlA4YU1IeGZaUmN3R3o0RkJMWndEaWtURWpuQ0lmcmY1MkR4WFpoSXhwSzJOelhHR2I5RHR4TkJNUkFBPT0K",
+      "url": "https://github.com/loch-suite/loch-hardware-releases/releases/download/v0.2.3/Loch.Hardware_0.2.3_x64-setup.exe"
     }
   }
 }
